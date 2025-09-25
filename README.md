@@ -20,6 +20,6 @@ This project was created as a learning exercise to understand how to connect Mon
 - **MongoDB + Mongoose**
 - **EJS** (for views)
 
-## Author
-Avi (Abhavya28)
+## 🙌 Author
+[**Abhavya (Abhavya28)**](https://github.com/Abhavya28)  
 Learning Full-Stack Web Development 🚀
