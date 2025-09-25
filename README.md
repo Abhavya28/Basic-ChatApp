@@ -21,5 +21,5 @@ This project was created as a learning exercise to understand how to connect Mon
 - **EJS** (for views)
 
 ## 🙌 Author
-[**Abhavya (Abhavya28)**](https://github.com/Abhavya28)  
+[**Abhavya Gupta**](https://github.com/Abhavya28)  
 Learning Full-Stack Web Development 🚀
